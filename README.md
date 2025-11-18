@@ -92,35 +92,6 @@ Example:
 
 ---
 
-## Project Structure
-
-> Adjust to match your actual tree.
-
-```text
-so.long/
-├─ Makefile
-├─ src/
-│  ├─ main.c
-│  ├─ game_loop.c
-│  ├─ render.c
-│  ├─ input.c
-│  ├─ map_parsing.c
-│  └─ ...
-├─ include/
-│  ├─ so_long.h
-│  └─ ...
-├─ assets/
-│  ├─ player.xpm
-│  ├─ wall.xpm
-│  ├─ floor.xpm
-│  ├─ collectible.xpm
-│  └─ exit.xpm
-└─ maps/
-   ├─ example.ber
-   └─ ...
-```
-
----
 
 ## Known Issues / TODO
 
@@ -130,18 +101,6 @@ so.long/
 - [ ] Add enemies / more game mechanics
 
 ---
-
-## License
-
-Specify your license here (for example, MIT):
-
-```text
-MIT License
-Copyright (c) <year> <your-name>
-```
-
----
-
 ## Author
 
-- `Youssef SouHail` – [[your GitHub link](https://github.com/yu-joseph)]
+- `Youssef SouHail` – (https://github.com/yu-joseph)]
