@@ -27,24 +27,6 @@ This project is typically done as part of the 42 curriculum and focuses on:
 
 ---
 
-## Preview (GIFs)
-
-> Replace these URLs with your own GIFs (e.g. from your GitHub repo, Imgur, or a local `/assets` folder in the project).
-
-### Gameplay Overview
-
-![Gameplay Overview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxkNmZqaHk2cnM1cDgydHVvZHV3OTdmc2Y1YnN6M3hhaTRlM3docCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GYxLx2zF5mK6A/giphy.gif)
-
-### Collecting Items
-
-![Collectibles Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NmMnZyaWxuY2l2cHNpb3Z0dXN0bzc3eHlydGFwMWpqbHV4N2o5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif)
-
-### Reaching the Exit
-
-![Exit Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpycml4bGhlc3NyYm5jOG1rN292eXhjdHB2bzI2cDVteGpoY2ZrOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kEKcOWl8RMLde/giphy.gif)
-
-*(If you have your own recordings, export them as GIFs and update the links above.)*
-
 ---
 
 ## Installation
