@@ -92,14 +92,6 @@ Example:
 
 ---
 
-
-## Known Issues / TODO
-
-- [ ] Add more levels
-- [ ] Improve sprite animations
-- [ ] Add sound effects
-- [ ] Add enemies / more game mechanics
-
 ---
 ## Author
 
