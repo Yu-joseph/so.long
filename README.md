@@ -103,4 +103,4 @@ Example:
 ---
 ## Author
 
-- `Youssef SouHail` – (https://github.com/yu-joseph)]
+- `Youssef SouHail` – [(https://github.com/yu-joseph)]
